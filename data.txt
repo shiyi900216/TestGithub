@@ -1,0 +1,17 @@
+HERO = 1;
+MONSTER = 2;
+BUILDING = 3;
+SUMUNIT = 4;
+cha = {} --定义一个表
+cha[1] =  --给表加内容
+{
+	basic = 
+	{
+	NAME = "农民",
+	cha_type = HERO,
+	},
+	combat = 
+	{
+
+	}
+}
